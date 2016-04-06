@@ -37,6 +37,13 @@ Slam poetry story about how it's been growing.
 		
 			<div id="   " class="jp-audio">
 				<div class="jp-type-single">
+				
+				
+				<div id="chapter-title"></div>
+							<ul id="slide-nav">
+							</ul>
+						</div>
+						<div class="jp-current-time"></div>
 	
     
     </div>
