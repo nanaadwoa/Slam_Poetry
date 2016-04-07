@@ -26,8 +26,12 @@ Slam poetry story about how it's been growing.
 	<meta property="og:image" content=
 	<meta property="og:site_name" content= />
 	
-	</head>
-<body id="top">
+	<meta name="thumbnail" content=" " />
+	
+</head>
+
+<body>
+<id="top">
     
     <div id="main-content">
     
